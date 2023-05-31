@@ -1,0 +1,87 @@
+|* {
+    margin: 0px;
+    list-style: none;
+    text-decoration: none;
+    padding: 0px;
+    flex-wrap: wrap;
+
+}
+
+header {
+    max-width: 1575px;
+    height: 700px;
+    background-image: url(./rasmlar/victor-garcia-1263465-unsplash.png);
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    flex-wrap: wrap;
+
+}
+
+header nav ul {
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF;
+    justify-content: space-evenly;
+    text-decoration: none;
+    list-style: none;
+    padding: 50px 50px 250px;
+    flex-wrap: wrap;
+}
+
+header nav ul h1 {
+    color: #FFFFFF;
+    flex-wrap: wrap;
+}
+
+header nav ul li a {
+    color: #FFFFFF;
+    flex-wrap: wrap;
+}
+
+.topp {
+    color: #B78601;
+    flex-wrap: wrap;
+}
+
+.yes p {
+    color: #FFFFFF;
+    flex-wrap: wrap;
+}
+
+.yes h1 {
+    color: #B78601;
+    flex-wrap: wrap;
+}
+
+.yes button {
+    border-radius: 35px;
+    max-width: 250px;
+    height: 40px;
+    background: transparent;
+    color: white;
+    flex-wrap: wrap;
+}
+
+.yes {
+    margin-left: 223px;
+    flex-wrap: wrap;
+    
+}
+.liv h2 {
+    color: #565656;
+    flex-wrap: wrap;
+
+}
+
+.liv img {
+    margin-left: 150px;
+    flex-wrap: wrap;
+}
+@media(max-width:360px){
+    .liv{
+        width: calc(100% / 1);
+    }
+
+}
